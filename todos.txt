@@ -1,2 +1,6 @@
 eat lunch
 study python
+order food
+complete java project
+complete python
+make chapti
