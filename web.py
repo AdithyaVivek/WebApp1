@@ -7,6 +7,8 @@ todos = functions.get_todos()
 
 
 st.set_page_config(layout="wide")
+
+# Clear the text_input after pressing enter
 st.session_state["textbox_new_todo"] = ""
 
 def add():
